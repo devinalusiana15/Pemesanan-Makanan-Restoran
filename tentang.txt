@@ -1,0 +1,13 @@
+==============SELAMAT DATANG DI CK FOOD==============
+
+CK Food merupakan sistem pemesanan makanan cina
+dan korea yang berfungsi untuk mempermudah pemesanan 
+dan transaksi. Sistem ini dibuat dengan menggunakan 
+bahasa c++ dimana terdapat penggunaan procedure, 
+function, record/komposit, operasi baca simpan ke 
+dalam file, dan penggunaan ADT. Sistem ini 
+dikembangkan oleh kelompok A5 yang beranggotakan:
+1. Devina Lusiana 
+2. Salma Aushaf Hafianne
+
+	

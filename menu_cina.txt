@@ -1,0 +1,32 @@
+DESKRIPSI MENU MAKANAN
+
+1. Fuyunghai
+	Makanan yang terbuat dari telur yang didadar dengan campuran
+	berupa sayuran, daging, dan makanan laut.
+
+2. Ayam Koloke
+	Makanan yang terbuat dari daging ayam yang dibumbui dengan
+	saus asam manis merah.
+
+3. Sapo Tahu
+	Makanan dengan bahan utama tofu/tahu jepang yang lembut dan
+	creamy ditambah dengan udang, ikan, dan daging.
+
+4. Hakau 
+	Salah satu menu dimsum dengan kulit transparan yang diisi 
+	dengan udang.
+
+5. Bakpao 
+	Makanan yang berbahan dasar tepung terigu yang diberi isian
+	daging kemudian dikukus.
+
+6. Teh Krisan 
+	Teh herbal terapi yang terbuat dari bunga krisan.
+
+7. Kopi Yunnan 
+	Minuman yang terbuat dari biji kopi yang berasal dari Yunnan
+	yang terletak di Cina Selatan.
+
+8. Jus Buah Plum
+	Minuman yang terbuat dari buah plum yang dihaluskan bersama
+	air. 

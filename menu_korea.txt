@@ -1,0 +1,36 @@
+DESKRIPSI MENU MAKANAN
+
+1. Korean Bulgogi
+	Daging sapi bakar yang dimasak dengan saus Bulgogi 
+	dan saus lada hitam, smokey, dan lezat.
+
+2. Korean Jjangmyeon
+	Mie Korea yang kenyal dengan saus Jjang(black bean)
+	asli Korea yang dimasak dengan daging ayam dan sayur;
+	aroma sangat khas, juga tersaji dengan telur + Kyuuri segar.
+
+3. Korean Cheese Ramyeon
+	Ramyeon dengan double cheese Korea berisi mie ramyeon
+	kenyal berlumuran keju leleh bakar dan diberi topping keju
+	lembar bakar , telur(poached egg), jagung manis, jamur, wakame,
+	dan kuah ramyeon yang panas.
+
+4. Tteokbokki
+	Kue beras atau tteok yang dicampur dengan saus gochujang
+	khas Korea dicampur dengan sosis dan daging.
+
+5. Bibimbap
+	Nasi dengan berbagai jenis lauk pauk yang terdri dari 7 macam
+	jenis sayuran yang ada dalam bibimbab yang kemudian dicampur 
+	dengan daging dan telur atau tahu.
+
+6. Classic Bingsoo
+	Dessert atau makanan penutup berupa es serut yang pada bagian 
+	atasnya ditaburi dengan kacang merah dan sirup.
+
+7. Korean Strawberry Milk
+	Campuran susu, buah strawberry yang segar, dan gula.
+
+8. Corn Tea
+	teh yang dibuat dari jagung kering atau biji jagung bakar
+	yang baik untuk kesehatan.
